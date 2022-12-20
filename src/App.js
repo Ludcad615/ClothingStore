@@ -1,7 +1,7 @@
 import './categories.styles.scss'
 
-
 const App = () => {
+  
   const categories = [
     {
       id: 1,
